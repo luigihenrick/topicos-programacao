@@ -9,7 +9,6 @@ char ** ordenacaoCrescente (char palavras[N][M]){
     int i;
     for(i = 0; i < N; i++){
         aux = palavras[i];
-        
     }
 }
 char ** ordenacaoDecrescente (char palavras[N][M]);
