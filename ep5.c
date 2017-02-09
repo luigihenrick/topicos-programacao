@@ -7,6 +7,7 @@
 char ** ordenacaoCrescente (char palavras[N][M]){
     char * aux;
     int i;
+    
     for(i = 0; i < N; i++){
         aux = palavras[i];
     }
